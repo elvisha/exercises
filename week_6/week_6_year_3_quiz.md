@@ -203,6 +203,7 @@ For the sex variable, select `2: Change query string from: "sex"` and follow the
 - Please input new search string for CSV column: sex 	:SEX
 - Please select an option (1:14) from above: 	1
     - We want this option 'Label: SEX 	 Definition: gender  	 URL: http://uri.interlex.org/ilx_0738439'
+
 For the handedness variables, select any option.
 
 Which of the following `bidsmri2nidm` commands below will annotate this dataset and
